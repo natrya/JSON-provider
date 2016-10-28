@@ -1,0 +1,18 @@
+{
+    "name": "com.dinkominfo.training-API",
+    "version": "1.0.0",
+    "description": "API untuk training dinkominfo",
+    "title": "API untuk project training dinkominfo",
+    "url" : "https://localhost/training",
+    "header": {
+        "title": "com.dinkominfo.training"
+    },
+    "footer": {
+        "title": "@2016 ryanthe@gmail.com"
+    },
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+
+    }
+}
