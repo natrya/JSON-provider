@@ -1,6 +1,7 @@
 # PHP-JSON-provider
 
-to setup PHP and mysql please follow steps below :
+#to setup PHP and mysql please follow steps below :
+
 1. prepare your database
    go to training.sql directory
    mysql -u root -p < ./training.sql
